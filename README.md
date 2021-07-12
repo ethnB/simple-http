@@ -1,2 +1,1 @@
-# simple-http
-Simple HTTP client wrapper
+An intentionally unfinished wrapper around the JDK 11 java.net.http client.
